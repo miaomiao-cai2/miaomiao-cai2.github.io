@@ -1,3 +1,12 @@
+export type ProfileConfig = typeof profileData;
+
+import profilePhoto from "@/assets/profile.jpg";
+
+export const profileData = {
+  name: "Miaomiao Cai",
+  name_zh: "蔡苗苗",
+  note: "Postdoctoral Research Fellow at National University of Singapore",
+  photo: profilePhoto,
   description: (
     <>
       Hi, I am{" "}
@@ -39,3 +48,7 @@
       I&apos;m open to collaborations and discussions! Please feel free to contact me and explore possibilities together!
     </>
   ),
+  institute: ["Institute of Data Science", "National University of Singapore"],
+  email: "cmm.hfut@gmail.com",
+  location: "Singapore",
+};
