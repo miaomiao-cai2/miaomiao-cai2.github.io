@@ -1,0 +1,166 @@
+export type PaperConfig = typeof RMBRec;
+import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
+
+export const RMBRec = {
+  title: "RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, Zhijie Zhang, Junfeng Fang,
+      Zhiyong Cheng, Xiang Wang, Meng Wang
+    </>
+  ),
+  accepted: "WWW",
+  date: "2026",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const DynamicSpectral = {
+  title:
+    "Dynamic Spectral Denoising with Global-Context Attention for Multi-Behavior Recommendation",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, Yunshan Ma, Fangqi Zhu, Junfeng
+      Fang, Zhijie Zhang, Zhiyong Cheng, Xiang Wang, See-Kiong Ng
+    </>
+  ),
+  accepted: "KDD",
+  date: "2026",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "https://dl.acm.org/doi/10.1145/3770855.3818191",
+  code_link: "",
+};
+
+export const ForecastAgentSearch = {
+  title:
+    "ForecastAgentSearch: Towards a Multi-Expert Agent Search System for Geopolitical Event Forecasting",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, He Chang, Yunshan Ma, See-Kiong
+      Ng
+    </>
+  ),
+  accepted: "SIGIR AgentSearch Workshop",
+  date: "2026",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const CaIRec = {
+  title: "CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation",
+  authors: (
+    <>
+      Ruiyu Liu, Xiaohao Liu, <strong key="me">Miaomiao Cai</strong>*, Yunshan
+      Ma, See-Kiong Ng
+    </>
+  ),
+  accepted: "arXiv",
+  date: "2026",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "https://arxiv.org/abs/2607.26720",
+  code_link: "",
+};
+
+export const I3MRec = {
+  title:
+    "I3-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation",
+  authors: (
+    <>
+      Huilin Chen, <strong key="me">Miaomiao Cai</strong>, Fan Liu, Zhiyong
+      Cheng, Richang Hong, Meng Wang
+    </>
+  ),
+  accepted: "ACM MM",
+  date: "2025",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const GraphDualAdaptation = {
+  title: "Graph-Structured Driven Dual Adaptation for Mitigating Popularity Bias",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Zhiyong
+      Cheng, Min Zhang, Meng Wang
+    </>
+  ),
+  accepted: "IEEE TKDE",
+  date: "2025",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const BreakingSparsityBarrier = {
+  title: "Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis",
+  authors: (
+    <>
+      Pengyang Shao, Kun Zhang, Chen Gao, Lei Chen,{" "}
+      <strong key="me">Miaomiao Cai</strong>, Le Wu, Yong Li, Meng Wang
+    </>
+  ),
+  accepted: "Frontiers of Computer Science",
+  date: "2025",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const MultimodalityInvariant = {
+  title: "Multimodality Invariant Learning for Multimedia-based New Item Recommendation",
+  authors: (
+    <>
+      Haoyue Bai, Le Wu, Min Hou, <strong key="me">Miaomiao Cai</strong>,
+      Zhuangzhuang He, Yuyang Zhou, Richang Hong, Meng Wang
+    </>
+  ),
+  accepted: "SIGIR",
+  date: "2024",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const MitigatingBiases = {
+  title:
+    "Mitigating Recommendation Biases via Group-Alignment and Global-Uniformity in Representation Learning",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, Min Hou, Lei Chen, Le Wu, Haoyue
+      Bai, Yong Li, Meng Wang
+    </>
+  ),
+  accepted: "ACM TIST",
+  date: "2024",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};
+
+export const PopularityAwareAlignment = {
+  title: "Popularity-aware Alignment and Contrast for Mitigating Popularity Bias",
+  authors: (
+    <>
+      <strong key="me">Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Haoyue
+      Bai, Peijie Sun, Le Wu, Min Zhang, Meng Wang
+    </>
+  ),
+  accepted: "KDD",
+  date: "2024",
+  remark: <></>,
+  thumbnail: PaperPlaceholder,
+  paper_link: "",
+  code_link: "",
+};

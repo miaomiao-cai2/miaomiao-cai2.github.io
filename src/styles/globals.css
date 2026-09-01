@@ -1,0 +1,74 @@
+/* html, body {
+  font-family: "Times New Roman", Times, serif;
+} */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes gradient-float {
+  0%, 100% {
+    transform: translateX(-10%) translateY(-5%) rotate(12deg) scale(2);
+  }
+  25% {
+    transform: translateX(5%) translateY(-15%) rotate(18deg) scale(2.05);
+  }
+  50% {
+    transform: translateX(10%) translateY(-10%) rotate(8deg) scale(1.95);
+  }
+  75% {
+    transform: translateX(-5%) translateY(-20%) rotate(15deg) scale(2.02);
+  }
+}
+
+@keyframes gradient-blur {
+  0%, 100% {
+    filter: blur(80px);
+    opacity: 0.4;
+  }
+  25% {
+    filter: blur(120px);
+    opacity: 0.6;
+  }
+  50% {
+    filter: blur(160px);
+    opacity: 0.7;
+  }
+  75% {
+    filter: blur(100px);
+    opacity: 0.5;
+  }
+}
+
+@keyframes gradient-stroke {
+  0%, 100% {
+    stroke-width: 100;
+    stroke-opacity: 0.4;
+  }
+  25% {
+    stroke-width: 120;
+    stroke-opacity: 0.6;
+  }
+  50% {
+    stroke-width: 80;
+    stroke-opacity: 0.7;
+  }
+  75% {
+    stroke-width: 110;
+    stroke-opacity: 0.5;
+  }
+}
+
+.animate-gradient-float {
+  animation: gradient-float 12s ease-in-out infinite;
+}
+
+.animate-gradient-blur {
+  animation: gradient-blur 10s ease-in-out infinite;
+}
+
+.animate-gradient-stroke {
+  animation: gradient-stroke 8s ease-in-out infinite;
+}
+
+* { font-family: "Linux Libertine", "Libertine", serif; }
