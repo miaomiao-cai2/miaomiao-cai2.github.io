@@ -5,7 +5,7 @@ export const RMBRec = {
   title: "RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Zhijie Zhang, Junfeng Fang,
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Zhijie Zhang, Junfeng Fang,
       Zhiyong Cheng, Xiang Wang, Meng Wang
     </>
   ),
