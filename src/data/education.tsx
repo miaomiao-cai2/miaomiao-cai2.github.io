@@ -1,7 +1,7 @@
 export type EducationConfig = typeof educationData;
 
 import NUS from "@/assets/img/nus.svg";
-import HFUT from "@/assets/img/hfut.png";
+import HFUT from "@/assets/img/hfut.svg";
 import THU from "@/assets/img/thu.png";
 
 export const educationData = [
