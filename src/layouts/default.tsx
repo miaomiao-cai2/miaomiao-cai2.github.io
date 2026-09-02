@@ -12,8 +12,18 @@ export default function DefaultLayout({
       <main className="container mx-auto max-w-7xl px-6 flex-grow pt-16">
         {children}
       </main>
-      <footer className="w-full flex items-center justify-center py-3 text-small">
-        © {siteConfig.year} {siteConfig.name}
+      <footer className="w-full flex flex-col items-center justify-center gap-1 py-3 text-small">
+        <div>
+          © {siteConfig.year} {siteConfig.name}
+        </div>
+        
+          href="https://xiaohao-liu.github.io/"
+          target="_blank"
+          rel="noreferrer"
+          className="text-default-400 text-tiny hover:underline"
+        >
+          Template borrowed from Xiaohao Liu
+        </a>
       </footer>
     </div>
   );
