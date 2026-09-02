@@ -46,13 +46,13 @@ export const newsData = [
     date: "Oct 2025",
     event: <>One paper is accepted by ACM MM 2025!</>,
   },
-  {
+{
     type: "",
     date: "Sep 2025",
     event: (
       <>
-        I joined the{" "}
-        <strong style={{ display: "contents" }}>NExT++>{" "}
+        I joined{" "}
+        <strong style={{ display: "contents" }}>NExT++</strong>{" "}
         as a Postdoctoral Research Fellow, working with Prof. Tat-Seng Chua!
       </>
     ),
