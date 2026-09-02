@@ -23,7 +23,7 @@ export const RMBRec = {
   accepted: "ACM WWW",
   date: "2026",
   remark: <></>,
-  thumbnail: RMBRecPDF,
+  thumbnail: PaperPlaceholder,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792617",
   code_link: "https://github.com/miaomiao-cai2/RMBRec/",
 };
