@@ -10,11 +10,13 @@ export const profileData = {
   description: (
     <>
       Hi, I am{" "}
-      <span style={{
-        fontFamily: "Oleo Script",
-        fontSize: "1.1rem",
-        color: "#0c58ac"
-      }}>
+      <span
+        style={{
+          fontFamily: "Oleo Script",
+          fontSize: "1.1rem",
+          color: "#0c58ac",
+        }}
+      >
         Cai Miaomiao
       </span>
       , currently a Postdoctoral Research Fellow at the{" "}
@@ -33,26 +35,26 @@ export const profileData = {
       <br />
       <br />
       My research focuses on intelligent decision-making with{" "}
-<span
-  style={{
-    fontFamily: "Oleo Script",
-    fontSize: "1.1rem",
-    color: "#0c58ac",
-  }}
->
-  multimodal and agentic models
-</span>
-. I study debiased and generative recommendation, multimodal large language models, and tool-using AI agents. My current work develops LLM-based agents for automated penetration testing, focusing on reasoning, planning, and reliable tool execution.
+      <span
+        style={{
+          fontFamily: "Oleo Script",
+          fontSize: "1.1rem",
+          color: "#0c58ac",
+        }}
+      >
+        multimodal and agentic models
+      </span>
+      . I study debiased and generative recommendation, multimodal large language models, and tool-using AI agents. My current work develops LLM-based agents for automated penetration testing, focusing on reasoning, planning, and reliable tool execution.
       <br />
       <br />
       <strong
         style={{
-        fontFamily: "Oleo Script",
-        fontSize: "1.1rem",
-        color: "#0c58ac",
+          fontFamily: "Oleo Script",
+          fontSize: "1.1rem",
+          color: "#0c58ac",
         }}
       >
-      I am actively looking for self-motivated graduate students interested in research collaboration — please feel free to reach out and explore opportunities together!
+        I am actively looking for self-motivated graduate students interested in research collaboration — please feel free to reach out and explore opportunities together!
       </strong>
     </>
   ),
