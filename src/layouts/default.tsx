@@ -16,12 +16,7 @@ export default function DefaultLayout({
         <div>
           © {siteConfig.year} {siteConfig.name}
         </div>
-        
-          href="https://xiaohao-liu.github.io/"
-          target="_blank"
-          rel="noreferrer"
-          className="text-default-400 text-tiny hover:underline"
-        >
+        <a href="https://xiaohao-liu.github.io/" target="_blank" rel="noreferrer" className="text-default-400 text-tiny hover:underline">
           Template borrowed from Xiaohao Liu
         </a>
       </footer>
