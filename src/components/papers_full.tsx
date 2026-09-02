@@ -16,7 +16,7 @@ export const PapersFull = () => {
       <div className="grid gap-4">{paperDoms}</div>
       <br />
       <Code className="uppercase" color="primary">
-        Stay Hungry, Stay Foolish
+        越努力，越幸运！
       </Code>
       {/* <Snippet symbol="" variant="bordered">Stay Hungry, Stay Foolish</Snippet> */}
     </div>
