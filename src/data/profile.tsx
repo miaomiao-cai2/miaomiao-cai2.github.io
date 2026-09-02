@@ -45,8 +45,14 @@ export const profileData = {
       . In particular, my research interests include debias recommendation, multimodal large language models, and agent reasoning and tool use. I am currently working on LLM-based agents for automated penetration testing, focusing on how agents reason, plan, and interact with tools in complex environments.
       <br />
       <br />
-      <strong style={{ color: "#0c58ac" }}>
-        I am actively looking for self-motivated graduate students interested in research collaboration — please feel free to reach out and explore opportunities together!
+      <strong
+        style={{
+        fontFamily: "Oleo Script",
+        fontSize: "1.1rem",
+        color: "#0c58ac",
+        }}
+      >
+      I am actively looking for self-motivated graduate students interested in research collaboration — please feel free to reach out and explore opportunities together!
       </strong>
     </>
   ),
