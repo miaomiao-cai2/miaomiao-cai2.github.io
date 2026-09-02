@@ -1,7 +1,7 @@
 export type PaperConfig = typeof RMBRec;
 import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
 
-const meStyle = { fontFamily: "Oleo Script", color: "#0c58ac", fontSize: "1.05rem" };
+const meStyle = { color: "#0c58ac", fontWeight: 700 };
 
 export const RMBRec = {
   title: "RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors",
