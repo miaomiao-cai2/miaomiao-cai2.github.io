@@ -18,7 +18,7 @@ export const Papers = () => {
       {/* </ScrollShadow> */}
 
       <br />
-      <center style={{ fontFamily: "Oleo Script" }}>&quot;Stay Hungry, Stay Foolish&quot;</center>
+      <center style={{ fontFamily: "Oleo Script" }}>&quot;越努力，越幸运！&quot;</center>
 
       {/* <Snippet symbol="" variant="bordered">Stay Hungry, Stay Foolish</Snippet> */}
     </div>
