@@ -59,7 +59,7 @@ export const newsData = [
   },
   {
     type: "",
-    date: "2025",
+    date: "Oct 2025",
     event: <>One paper is accepted by Frontiers of Computer Science!</>,
   },
   {
