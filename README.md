@@ -86,7 +86,7 @@ The dev server runs at `http://localhost:5173`.
 
 ## Credits
 
-Built on the excellent [Homepage-Template](https://github.com/Xiaohao-Liu/Homepage-Template) by [Xiaohao Liu](https://xiaohao-liu.github.io/), extended here with dedicated pages for news, education, honors and services, restructured publication data, and a GitHub Actions deployment pipeline. Many thanks for open-sourcing it.
+Built on the excellent [Homepage-Template](https://github.com/Xiaohao-Liu/Homepage-Template) by [Xiaohao Liu](https://xiaohao-liu.github.io/), extended here with restructured pages for news, education, honors and services, and a GitHub Actions deployment pipeline. Many thanks for open-sourcing it.
 
 ## License
 
