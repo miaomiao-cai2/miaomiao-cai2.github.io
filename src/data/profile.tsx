@@ -3,7 +3,7 @@ export type ProfileConfig = typeof profileData;
 import profilePhoto from "@/assets/profile.jpg";
 
 export const profileData = {
-  name: "Miaomiao Cai",
+  name: "Cai Miaomiao",
   name_zh: "蔡苗苗",
   note: "Postdoctoral Research Fellow at National University of Singapore",
   photo: profilePhoto,
@@ -15,7 +15,7 @@ export const profileData = {
         fontSize: "1.1rem",
         color: "#0c58ac"
       }}>
-        Miaomiao Cai
+        Cai Miaomiao
       </span>
       , currently a Postdoctoral Research Fellow at the{" "}
       <strong>National University of Singapore</strong>, working with{" "}
@@ -45,7 +45,9 @@ export const profileData = {
       . In particular, my research interests include debias recommendation, multimodal large language models, and agent reasoning and tool use. I am currently working on LLM-based agents for automated penetration testing, focusing on how agents reason, plan, and interact with tools in complex environments.
       <br />
       <br />
-      I&apos;m open to collaborations and discussions! Please feel free to contact me and explore possibilities together!
+      <strong style={{ color: "#0c58ac" }}>
+        I am actively looking for self-motivated graduate students interested in research collaboration — please feel free to reach out and explore opportunities together!
+      </strong>
     </>
   ),
   institute: ["Institute of Data Science", "National University of Singapore"],
