@@ -1,6 +1,6 @@
 export type PaperConfig = typeof RMBRec;
 import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
-import RMBRecPDF from "@/assets/img/paper/RMBRec.pdf";
+import RMBRecPDF from "@/assets/img/paper/RMBRec.png";
 import ForecastAgentSearchPDF from "@/assets/img/paper/ForecastAgentSearch.pdf";
 import GraphDualAdaptationPDF from "@/assets/img/paper/GraphDualAdaptation.pdf";
 import I3MRecPDF from "@/assets/img/paper/I2MRec.pdf"; // 确认一下是否应为 I3MRec.pdf
@@ -23,7 +23,7 @@ export const RMBRec = {
   accepted: "ACM WWW",
   date: "2026",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: RMBRecPDF,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792617",
   code_link: "https://github.com/miaomiao-cai2/RMBRec/",
 };
