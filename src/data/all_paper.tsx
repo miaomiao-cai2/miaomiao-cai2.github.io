@@ -11,7 +11,7 @@ export const RMBRec = {
       Zhiyong Cheng, Xiang Wang, Meng Wang
     </>
   ),
-  accepted: "WWW",
+  accepted: "ACM WWW",
   date: "2026",
   remark: <></>,
   thumbnail: PaperPlaceholder,
@@ -45,7 +45,7 @@ export const ForecastAgentSearch = {
       Ng
     </>
   ),
-  accepted: "SIGIR AgentSearch Workshop",
+  accepted: "ACM SIGIR AgentSearch Workshop",
   date: "2026",
   remark: <></>,
   thumbnail: PaperPlaceholder,
@@ -126,7 +126,7 @@ export const MultimodalityInvariant = {
       Zhuangzhuang He, Yuyang Zhou, Richang Hong, Meng Wang
     </>
   ),
-  accepted: "SIGIR",
+  accepted: "ACM SIGIR",
   date: "2024",
   remark: <></>,
   thumbnail: PaperPlaceholder,
@@ -159,7 +159,7 @@ export const PopularityAwareAlignment = {
       Bai, Peijie Sun, Le Wu, Min Zhang, Meng Wang
     </>
   ),
-  accepted: "KDD",
+  accepted: "ACM SIGKDD",
   date: "2024",
   remark: <></>,
   thumbnail: PaperPlaceholder,
