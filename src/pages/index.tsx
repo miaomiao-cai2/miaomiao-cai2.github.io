@@ -166,7 +166,7 @@ export default function IndexPage() {
         </div>
         <div className="w-full flex flex-wrap justify-start items-center">
           <div className="text-lg font-bold mr-5">Services </div>
-          <div className="text-default-500">Reviewer for KDD, MM, AAAI, TKDE, TOIS, SIGIR, WWW, SIGIR-AP.</div>
+          <div className="text-default-500">Reviewer for KDD, MM, AAAI, TKDE, TOIS, SIGIR, WWW, SIGIR-AP, etc.</div>
         </div>
       </section>
     </DefaultLayout>
