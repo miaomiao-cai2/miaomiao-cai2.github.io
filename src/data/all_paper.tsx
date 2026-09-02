@@ -13,8 +13,8 @@ export const RMBRec = {
   date: "2026",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
-  code_link: "",
+  paper_link: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792617",
+  code_link: "https://github.com/miaomiao-cai2/RMBRec/",
 };
 
 export const DynamicSpectral = {
@@ -31,7 +31,7 @@ export const DynamicSpectral = {
   remark: <></>,
   thumbnail: PaperPlaceholder,
   paper_link: "https://dl.acm.org/doi/10.1145/3770855.3818191",
-  code_link: "",
+  code_link: "https://github.com/miaomiao-cai2/SpectraMB-KDD2026",
 };
 
 export const ForecastAgentSearch = {
@@ -47,7 +47,7 @@ export const ForecastAgentSearch = {
   date: "2026",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
+  paper_link: "https://arxiv.org/pdf/2606.31665",
   code_link: "",
 };
 
@@ -80,8 +80,8 @@ export const I3MRec = {
   date: "2025",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
-  code_link: "",
+  paper_link: "https://dl.acm.org/doi/pdf/10.1145/3746027.3755410",
+  code_link: "https://github.com/HuilinChenJN/I3-MRec",
 };
 
 export const GraphDualAdaptation = {
@@ -96,8 +96,8 @@ export const GraphDualAdaptation = {
   date: "2025",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
-  code_link: "",
+  paper_link: "https://arxiv.org/pdf/2503.23358",
+  code_link: "https://github.com/miaomiao-cai2/GSDA",
 };
 
 export const BreakingSparsityBarrier = {
@@ -112,7 +112,7 @@ export const BreakingSparsityBarrier = {
   date: "2025",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
+  paper_link: "https://drive.google.com/file/d/1k28CqZ18sMseQYEK9hj6EdSPbCpYPdyu/view",
   code_link: "",
 };
 
@@ -128,8 +128,8 @@ export const MultimodalityInvariant = {
   date: "2024",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
-  code_link: "",
+  paper_link: "https://dl.acm.org/doi/pdf/10.1145/3626772.3658596",
+  code_link: "https://github.com/HaoyueBai98/MILK",
 };
 
 export const MitigatingBiases = {
@@ -145,7 +145,7 @@ export const MitigatingBiases = {
   date: "2024",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
+  paper_link: "https://dl.acm.org/doi/epdf/10.1145/3664931",
   code_link: "",
 };
 
@@ -161,6 +161,6 @@ export const PopularityAwareAlignment = {
   date: "2024",
   remark: <></>,
   thumbnail: PaperPlaceholder,
-  paper_link: "",
-  code_link: "",
+  paper_link: "https://dl.acm.org/doi/pdf/10.1145/3637528.3671824",
+  code_link: "https://github.com/miaomiao-cai2/KDD2024-PAAC",
 };
