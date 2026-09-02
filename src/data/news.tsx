@@ -82,19 +82,4 @@ export const newsData = [
     date: "Aug 2024",
     event: <>One paper is accepted by KDD 2024!</>,
   },
-  {
-    type: "",
-    date: "Jul 2024",
-    event: <>One paper is accepted by SIGIR 2024!</>,
-  },
-  {
-    type: "",
-    date: "Oct 2023",
-    event: <>Started a visiting research stay at Tsinghua University, advised by Prof. Min Zhang.</>,
-  },
-  {
-    type: "",
-    date: "Sep 2020",
-    event: <>Started my Ph.D. at Hefei University of Technology, advised by Prof. Meng Wang and Prof. Le Wu.</>,
-  },
 ];
