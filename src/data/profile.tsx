@@ -1,6 +1,6 @@
 export type ProfileConfig = typeof profileData;
 
-import profilePhoto from "@/assets/profile.jpg";
+import profilePhoto from "@/assets/miaomiao1.jpg";
 
 export const profileData = {
   name: "Cai Miaomiao",
