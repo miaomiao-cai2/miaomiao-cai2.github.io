@@ -65,17 +65,12 @@ export const newsData = [
   {
     type: "",
     date: "Jun 2025",
-    event: <>I received my Ph.D. from Hefei University of Technology, advised by Prof. Meng Wang and Prof. Le Wu!</>,
+    event: <>I received my Ph.D. from Hefei University of Technology, advised by Prof. Meng Wang!</>,
   },
   {
     type: "",
     date: "Oct 2024",
     event: <>One paper is accepted by ACM TIST!</>,
-  },
-  {
-    type: "",
-    date: "Aug 2024",
-    event: <>Completed my visiting research at Tsinghua University, advised by Prof. Min Zhang.</>,
   },
   {
     type: "",
