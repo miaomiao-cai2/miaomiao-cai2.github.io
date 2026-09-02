@@ -1,14 +1,14 @@
 export type PaperConfig = typeof RMBRec;
 import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
 import RMBRecPDF from "@/assets/img/paper/RMBRec.png";
-import ForecastAgentSearchPDF from "@/assets/img/paper/ForecastAgentSearch.pdf";
-import GraphDualAdaptationPDF from "@/assets/img/paper/GraphDualAdaptation.pdf";
-import I3MRecPDF from "@/assets/img/paper/I2MRec.pdf"; // 确认一下是否应为 I3MRec.pdf
-import MitigatingBiasesPDF from "@/assets/img/paper/MitigatingBiases.pdf";
-import PopularityAwareAlignmentPDF from "@/assets/img/paper/PopularityAwareAlignment.pdf";
-import DynamicSpectralPDF from "@/assets/img/paper/DynamicSpectral.pdf";
-import CaIRecPDF from "@/assets/img/paper/CaIRec.pdf";
-import MultimodalityInvariantPDF from "@/assets/img/paper/MultimodalityInvariant.pdf";
+import ForecastAgentSearchPDF from "@/assets/img/paper/ForecastAgentSearch.png";
+import GraphDualAdaptationPDF from "@/assets/img/paper/GraphDualAdaptation.png";
+import I3MRecPDF from "@/assets/img/paper/I2MRec.png"; // 确认一下是否应为 I3MRec.pdf
+import MitigatingBiasesPDF from "@/assets/img/paper/MitigatingBiases.png";
+import PopularityAwareAlignmentPDF from "@/assets/img/paper/PopularityAwareAlignment.png";
+import DynamicSpectralPDF from "@/assets/img/paper/DynamicSpectral.png";
+import CaIRecPDF from "@/assets/img/paper/CaIRec.png";
+import MultimodalityInvariantPDF from "@/assets/img/paper/MultimodalityInvariant.png";
 
 const meStyle = {fontFamily: "Oleo Script", color: "#0c58ac", fontWeight: 700 };
 
