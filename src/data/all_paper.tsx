@@ -28,7 +28,7 @@ export const DynamicSpectral = {
       Fang, Zhijie Zhang, Zhiyong Cheng, Xiang Wang, See-Kiong Ng
     </>
   ),
-  accepted: "KDD",
+  accepted: "ACM SIGKDD",
   date: "2026",
   remark: <></>,
   thumbnail: PaperPlaceholder,
