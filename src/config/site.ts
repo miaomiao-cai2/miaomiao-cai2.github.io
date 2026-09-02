@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Miaomiao Cai's Homepage",
+  name: "Cai Miaomiao's Homepage",
   year: new Date().getFullYear(),
-  description: "Miaomiao Cai's Homepage",
+  description: "Cai Miaomiao's Homepage",
   navItems: [
     {
       label: "Bio",
