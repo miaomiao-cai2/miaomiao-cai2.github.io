@@ -3,7 +3,7 @@ export type ProfileConfig = typeof profileData;
 import profilePhoto from "@/assets/miaomiao1.jpg";
 
 export const profileData = {
-  name: "Cai Miaomiao",
+  name: "Miaomiao Cai",
   name_zh: "蔡苗苗",
   note: "Postdoctoral Research Fellow at National University of Singapore",
   photo: profilePhoto,
@@ -17,7 +17,7 @@ export const profileData = {
           color: "#0c58ac",
         }}
       >
-        Cai Miaomiao
+      Miaomiao Cai
       </span>
       , currently a Postdoctoral Research Fellow at the{" "}
       <strong>National University of Singapore</strong>, working with{" "}
