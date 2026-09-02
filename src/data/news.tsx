@@ -32,7 +32,7 @@ export const newsData = [
       <>
         I joined the{" "}
         <strong style={{ display: "contents" }}>Institute of Data Science</strong>{" "}
-        as a Postdoctoral Research Fellow, working with Prof. See-Kiong Ng!
+        as a Postdoc., working with Prof. See-Kiong Ng!
       </>
     ),
   },
