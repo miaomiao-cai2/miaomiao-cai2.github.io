@@ -1,11 +1,13 @@
 export type PaperConfig = typeof RMBRec;
 import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
 
+const meStyle = { fontFamily: "Oleo Script", color: "#0c58ac", fontSize: "1.05rem" };
+
 export const RMBRec = {
   title: "RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Zhijie Zhang, Junfeng Fang,
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Zhijie Zhang, Junfeng Fang,
       Zhiyong Cheng, Xiang Wang, Meng Wang
     </>
   ),
