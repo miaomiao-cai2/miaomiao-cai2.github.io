@@ -51,15 +51,8 @@ export const newsData = [
     date: "Sep 2025",
     event: (
       <>
-        I joined{" "}
-        <Image
-          alt="NExT++"
-          height={16}
-          radius="none"
-          src={NExT}
-          style={{ padding: "0 3px" }}
-          width={64}
-        />{" "}
+        I joined the{" "}
+        <strong style={{ display: "contents" }}>NExT++>{" "}
         as a Postdoctoral Research Fellow, working with Prof. Tat-Seng Chua!
       </>
     ),
