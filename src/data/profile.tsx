@@ -32,17 +32,17 @@ export const profileData = {
       <a href="https://www.cs.tsinghua.edu.cn/csen/info/1312/4397.htm" style={{ fontWeight: "bold" }} target="_blank">Prof. Min Zhang</a>.
       <br />
       <br />
-      I am broadly interested in{" "}
-      <span
-        style={{
-          fontFamily: "Oleo Script",
-          fontSize: "1.1rem",
-          color: "#0c58ac",
-        }}
-      >
-        recommender systems, multimodal learning, and agentic AI
-      </span>
-      . In particular, my research interests include debias recommendation, multimodal large language models, and agent reasoning and tool use. I am currently working on LLM-based agents for automated penetration testing, focusing on how agents reason, plan, and interact with tools in complex environments.
+      My research focuses on intelligent decision-making with{" "}
+<span
+  style={{
+    fontFamily: "Oleo Script",
+    fontSize: "1.1rem",
+    color: "#0c58ac",
+  }}
+>
+  multimodal and agentic models
+</span>
+. I study debiased and generative recommendation, multimodal large language models, and tool-using AI agents. My current work develops LLM-based agents for automated penetration testing, focusing on reasoning, planning, and reliable tool execution.
       <br />
       <br />
       <strong
