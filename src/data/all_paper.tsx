@@ -1,5 +1,14 @@
 export type PaperConfig = typeof RMBRec;
 import PaperPlaceholder from "@/assets/img/paper/placeholder.png";
+import RMBRecPDF from "@/assets/img/paper/RMBRec.pdf";
+import ForecastAgentSearchPDF from "@/assets/img/paper/ForecastAgentSearch.pdf";
+import GraphDualAdaptationPDF from "@/assets/img/paper/GraphDualAdaptation.pdf";
+import I3MRecPDF from "@/assets/img/paper/I2MRec.pdf"; // 确认一下是否应为 I3MRec.pdf
+import MitigatingBiasesPDF from "@/assets/img/paper/MitigatingBiases.pdf";
+import PopularityAwareAlignmentPDF from "@/assets/img/paper/PopularityAwareAlignment.pdf";
+import DynamicSpectralPDF from "@/assets/img/paper/DynamicSpectral.pdf";
+import CaIRecPDF from "@/assets/img/paper/CaIRec.pdf";
+import MultimodalityInvariantPDF from "@/assets/img/paper/MultimodalityInvariant.pdf";
 
 const meStyle = {fontFamily: "Oleo Script", color: "#0c58ac", fontWeight: 700 };
 
@@ -14,7 +23,7 @@ export const RMBRec = {
   accepted: "ACM WWW",
   date: "2026",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: RMBRecPDF,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792617",
   code_link: "https://github.com/miaomiao-cai2/RMBRec/",
 };
@@ -31,7 +40,7 @@ export const DynamicSpectral = {
   accepted: "ACM SIGKDD",
   date: "2026",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: DynamicSpectralPDF,
   paper_link: "https://dl.acm.org/doi/10.1145/3770855.3818191",
   code_link: "https://github.com/miaomiao-cai2/SpectraMB-KDD2026",
 };
@@ -48,7 +57,7 @@ export const ForecastAgentSearch = {
   accepted: "ACM SIGIR AgentSearch Workshop",
   date: "2026",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: ForecastAgentSearchPDF,
   paper_link: "https://arxiv.org/pdf/2606.31665",
   code_link: "",
 };
@@ -64,7 +73,7 @@ export const CaIRec = {
   accepted: "arXiv",
   date: "2026",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: CaIRecPDF,
   paper_link: "https://arxiv.org/abs/2607.26720",
   code_link: "",
 };
@@ -81,7 +90,7 @@ export const I3MRec = {
   accepted: "ACM MM",
   date: "2025",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: I3MRecPDF,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3746027.3755410",
   code_link: "https://github.com/HuilinChenJN/I3-MRec",
 };
@@ -97,7 +106,7 @@ export const GraphDualAdaptation = {
   accepted: "IEEE TKDE",
   date: "2025",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: GraphDualAdaptationPDF,
   paper_link: "https://arxiv.org/pdf/2503.23358",
   code_link: "https://github.com/miaomiao-cai2/GSDA",
 };
@@ -129,7 +138,7 @@ export const MultimodalityInvariant = {
   accepted: "ACM SIGIR",
   date: "2024",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: MultimodalityInvariantPDF,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3626772.3658596",
   code_link: "https://github.com/HaoyueBai98/MILK",
 };
@@ -146,7 +155,7 @@ export const MitigatingBiases = {
   accepted: "ACM TIST",
   date: "2024",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: MitigatingBiasesPDF,
   paper_link: "https://dl.acm.org/doi/epdf/10.1145/3664931",
   code_link: "",
 };
@@ -162,7 +171,7 @@ export const PopularityAwareAlignment = {
   accepted: "ACM SIGKDD",
   date: "2024",
   remark: <></>,
-  thumbnail: PaperPlaceholder,
+  thumbnail: PopularityAwareAlignmentPDF,
   paper_link: "https://dl.acm.org/doi/pdf/10.1145/3637528.3671824",
   code_link: "https://github.com/miaomiao-cai2/KDD2024-PAAC",
 };
