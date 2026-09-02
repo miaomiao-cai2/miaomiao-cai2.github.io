@@ -32,15 +32,6 @@ export const newsData = [
       <>
         I joined the{" "}
         <strong style={{ display: "contents" }}>Institute of Data Science</strong>{" "}
-        at{" "}
-        <Image
-          alt="NUS"
-          height={16}
-          radius="none"
-          src={NUS}
-          style={{ padding: "0 3px" }}
-          width={22}
-        />{" "}
         as a Postdoctoral Research Fellow, working with Prof. See-Kiong Ng!
       </>
     ),
