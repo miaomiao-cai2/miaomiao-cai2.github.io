@@ -7,13 +7,23 @@ import NExT from "@/assets/img/next.png";
 export const newsData = [
   {
     type: "",
-    date: "2026",
-    event: <>One paper is accepted by WWW 2026!</>,
+    date: "Aug 2026",
+    event: <>One paper is accepted by KDD 2026!</>,
   },
   {
     type: "",
-    date: "2026",
-    event: <>One paper is accepted by KDD 2026!</>,
+    date: "Jul 2026",
+    event: <>One paper is accepted by ACM MM 2026!</>,
+  },
+  {
+    type: "",
+    date: "Jun 2026",
+    event: <>One paper is accepted by the SIGIR 2026 AgentSearch Workshop!</>,
+  },
+  {
+    type: "",
+    date: "Apr 2026",
+    event: <>One paper is accepted by WWW 2026!</>,
   },
   {
     type: "",
@@ -31,9 +41,19 @@ export const newsData = [
           style={{ padding: "0 3px" }}
           width={22}
         />{" "}
-        as a Postdoctoral Research Fellow!
+        as a Postdoctoral Research Fellow, working with Prof. See-Kiong Ng!
       </>
     ),
+  },
+  {
+    type: "",
+    date: "Nov 2025",
+    event: <>One paper is accepted by IEEE TKDE!</>,
+  },
+  {
+    type: "",
+    date: "Oct 2025",
+    event: <>One paper is accepted by ACM MM 2025!</>,
   },
   {
     type: "",
@@ -49,24 +69,24 @@ export const newsData = [
           style={{ padding: "0 3px" }}
           width={64}
         />{" "}
-        as a Postdoctoral Research Fellow, working with Prof. See-Kiong Ng!
+        as a Postdoctoral Research Fellow, working with Prof. Tat-Seng Chua!
       </>
     ),
   },
   {
     type: "",
     date: "2025",
-    event: <>One paper is accepted by ACM MM 2025!</>,
-  },
-  {
-    type: "",
-    date: "2025",
-    event: <>One paper is accepted by IEEE TKDE!</>,
+    event: <>One paper is accepted by Frontiers of Computer Science!</>,
   },
   {
     type: "",
     date: "Jun 2025",
-    event: <>I received my Ph.D. from Hefei University of Technology!</>,
+    event: <>I received my Ph.D. from Hefei University of Technology, advised by Prof. Meng Wang and Prof. Le Wu!</>,
+  },
+  {
+    type: "",
+    date: "Oct 2024",
+    event: <>One paper is accepted by ACM TIST!</>,
   },
   {
     type: "",
@@ -75,13 +95,13 @@ export const newsData = [
   },
   {
     type: "",
-    date: "2024",
-    event: <>One paper is accepted by SIGIR 2024!</>,
+    date: "Aug 2024",
+    event: <>One paper is accepted by KDD 2024!</>,
   },
   {
     type: "",
-    date: "2024",
-    event: <>One paper is accepted by KDD 2024!</>,
+    date: "Jul 2024",
+    event: <>One paper is accepted by SIGIR 2024!</>,
   },
   {
     type: "",
