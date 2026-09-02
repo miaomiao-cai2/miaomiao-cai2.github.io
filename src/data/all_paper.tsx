@@ -24,7 +24,7 @@ export const DynamicSpectral = {
     "Dynamic Spectral Denoising with Global-Context Attention for Multi-Behavior Recommendation",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Yunshan Ma, Fangqi Zhu, Junfeng
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Yunshan Ma, Fangqi Zhu, Junfeng
       Fang, Zhijie Zhang, Zhiyong Cheng, Xiang Wang, See-Kiong Ng
     </>
   ),
@@ -41,7 +41,7 @@ export const ForecastAgentSearch = {
     "ForecastAgentSearch: Towards a Multi-Expert Agent Search System for Geopolitical Event Forecasting",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, He Chang, Yunshan Ma, See-Kiong
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, He Chang, Yunshan Ma, See-Kiong
       Ng
     </>
   ),
@@ -57,7 +57,7 @@ export const CaIRec = {
   title: "CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation",
   authors: (
     <>
-      Ruiyu Liu, Xiaohao Liu, <strong key="me">Miaomiao Cai</strong>*, Yunshan
+      Ruiyu Liu, Xiaohao Liu, <strong key="me" style={meStyle}>Miaomiao Cai</strong>*, Yunshan
       Ma, See-Kiong Ng
     </>
   ),
@@ -74,7 +74,7 @@ export const I3MRec = {
     "I3-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation",
   authors: (
     <>
-      Huilin Chen, <strong key="me">Miaomiao Cai</strong>, Fan Liu, Zhiyong
+      Huilin Chen, <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Fan Liu, Zhiyong
       Cheng, Richang Hong, Meng Wang
     </>
   ),
@@ -90,7 +90,7 @@ export const GraphDualAdaptation = {
   title: "Graph-Structured Driven Dual Adaptation for Mitigating Popularity Bias",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Zhiyong
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Zhiyong
       Cheng, Min Zhang, Meng Wang
     </>
   ),
@@ -107,7 +107,7 @@ export const BreakingSparsityBarrier = {
   authors: (
     <>
       Pengyang Shao, Kun Zhang, Chen Gao, Lei Chen,{" "}
-      <strong key="me">Miaomiao Cai</strong>, Le Wu, Yong Li, Meng Wang
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Le Wu, Yong Li, Meng Wang
     </>
   ),
   accepted: "Frontiers of Computer Science",
@@ -122,7 +122,7 @@ export const MultimodalityInvariant = {
   title: "Multimodality Invariant Learning for Multimedia-based New Item Recommendation",
   authors: (
     <>
-      Haoyue Bai, Le Wu, Min Hou, <strong key="me">Miaomiao Cai</strong>,
+      Haoyue Bai, Le Wu, Min Hou, <strong key="me" style={meStyle}>Miaomiao Cai</strong>,
       Zhuangzhuang He, Yuyang Zhou, Richang Hong, Meng Wang
     </>
   ),
@@ -139,7 +139,7 @@ export const MitigatingBiases = {
     "Mitigating Recommendation Biases via Group-Alignment and Global-Uniformity in Representation Learning",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Min Hou, Lei Chen, Le Wu, Haoyue
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Min Hou, Lei Chen, Le Wu, Haoyue
       Bai, Yong Li, Meng Wang
     </>
   ),
@@ -155,7 +155,7 @@ export const PopularityAwareAlignment = {
   title: "Popularity-aware Alignment and Contrast for Mitigating Popularity Bias",
   authors: (
     <>
-      <strong key="me">Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Haoyue
+      <strong key="me" style={meStyle}>Miaomiao Cai</strong>, Lei Chen, Yifan Wang, Haoyue
       Bai, Peijie Sun, Le Wu, Min Zhang, Meng Wang
     </>
   ),
